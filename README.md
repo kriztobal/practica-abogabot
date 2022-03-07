@@ -17,4 +17,6 @@ Archivo creado en miro.
 
 ## 04 El siguiente link envía hacía la imagen de Wireframe UX
 Archivo creado en figma. [link de Figma](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fob1YwoRiBkObXBNdgEzw55%2FAbogabot%3Fnode-id%3D0%253A1)
+
+
 [imagen en github](https://github.com/kriztobal/practica-abogabot/blob/main/04%20Wireframe%20UX/04WireframeUX.png)
